@@ -1,0 +1,8 @@
+kh4250-04.cselabs.umn.edu 4000 0
+kh4250-05.cselabs.umn.edu 4000 1
+kh4250-06.cselabs.umn.edu 4000 0
+kh4250-07.cselabs.umn.edu 4000 0
+kh4250-08.cselabs.umn.edu 4000 0
+kh4250-09.cselabs.umn.edu 4000 0
+kh4250-10.cselabs.umn.edu 4000 0
+kh4250-11.cselabs.umn.edu 4000 0
